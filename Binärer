@@ -17,14 +17,14 @@ package eu.happycoders.binarytree;
    * @param schlüssel der Suchschlüssel
    * @zurückkehren der Knoten oder <code>null</code>, falls kein Knoten mit dem angegebenen Suchschlüssel vorhanden ist.
    */
-  Knoten suchknoten(int-schlüssel);
+  Knoten suchknoten 'int-schlüssel';
 
   /**
    * Fügt einen Knoten mit dem angegebenen Schlüssel ein.
    *
    * @param der Schlüssel des einzufügenden Knotens.
    */
-  void Suchknoten (int-schlüssel);
+  void Suchknoten 'int-schlüssel';
 
   /**
    
